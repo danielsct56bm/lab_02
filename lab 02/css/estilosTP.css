@@ -1,4 +1,18 @@
+*{
+    background-color: #e1e3ac;
+}
 h1{
     text-align: center;
-    color: #ff0015;
+    color: #46685b;
+    -webkit-text-stroke: 0.5px #08c5d1;
+}
+h2{
+    text-align: start;
+    color: #213435;
+    -webkit-text-stroke: 0.23px #08c5d1;
+}
+div{
+    color: #648a64;
+    -webkit-text-stroke: 0.1px #08c5d1;
+    
 }
